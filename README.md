@@ -1,8 +1,8 @@
 # parking-control
 
-PostgreSQL 
-Database name = parking-contro-db
-senha padrão = postgres
+PostgreSQL <br>
+Database name = parking-control-db<br>
+senha padrão = postgres<br>
 
 spring.datasource.url= jdbc:postgresql://localhost:5432/parking-control-db
 
